@@ -5,8 +5,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../../core/themeing/colors.dart';
 
-class SpecialityListViewItem extends StatelessWidget {
-  const SpecialityListViewItem({super.key});
+class SpecialtyListViewItem extends StatelessWidget {
+  const SpecialtyListViewItem({super.key});
 
   @override
   Widget build(BuildContext context) {
